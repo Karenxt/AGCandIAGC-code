@@ -1,3 +1,0 @@
-Run command: AGCandIAGC.py
-
-
